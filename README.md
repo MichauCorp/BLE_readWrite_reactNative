@@ -8,8 +8,8 @@ Instructions:
 1. download the project files and open on VScode.
 
 2. to build, enter: "
-   eas login
-   eas build:configure (your platform)
+   eas login,
+   eas build:configure (your platform),
    eas build --profile=preview --platform= (your platform) "
 
 3. enjoy
