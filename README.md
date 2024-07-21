@@ -15,3 +15,6 @@ Instructions:
 3. enjoy
 
 Note: this app only scans for aromatron type devices, this can be changed in the 'useBLE.ts' file 
+
+
+uses code from https://github.com/friyiajr/BLESampleExpo
